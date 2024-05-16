@@ -1,2 +1,2 @@
 # vishamay
-this is my first git repositoryu
+this is my first git repository
